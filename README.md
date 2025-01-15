@@ -88,6 +88,3 @@ Using the Iris dataset (Versicolor and Virginica):
 - Adhere to any additional guidelines provided in the course material.
 
 ---
-
-## Questions or Assistance
-If you encounter any issues, feel free to ask for help or clarification!
