@@ -71,20 +71,3 @@ Using the Iris dataset (Versicolor and Virginica):
 
 ---
 
-## Submission Requirements
-1. **Code:**
-   - Implement the solutions in Python.
-   - Specify the Python version used at the top of your code.
-
-2. **Documentation:**
-   - Submit a separate document for answers and analysis.
-   - Include charts, tables, and explanations as needed.
-
----
-
-## Notes
-- Make sure to clearly label all sections of your code and analysis.
-- Test your code thoroughly to ensure accuracy.
-- Adhere to any additional guidelines provided in the course material.
-
----
